@@ -3,14 +3,22 @@
 
 This repository contains the code of the video course [Ngrx (with NgRx Data) - The Complete Guide](https://angular-university.io/course/ngrx-course).
 
+<<<<<<< HEAD
 This course repository is updated to Angular v13:
+=======
+This course repository is updated to Angular v15:
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
 
 ![Ngrx (with NgRx Data) - The Complete Guide](https://angular-university.s3-us-west-1.amazonaws.com/course-images/ngrx-v2.png)
 
 
 # Installation pre-requisites
 
+<<<<<<< HEAD
 For taking the course we recommend installing Node 16 Long Term Support Edition (LTE).
+=======
+For taking the course we recommend installing Node 18 Long Term Support Edition (LTE).
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
 
 To easily switch between node versions on your machine, we recommend using a node virtual environment tool such as [nave](https://www.npmjs.com/package/nave) or [nvm-windows](https://github.com/coreybutler/nvm-windows), depending on your operating system. 
 
@@ -19,7 +27,7 @@ For example, here is how you switch to a new node version using nave:
     # note that you don't even need to update your node version before installing nave
     npm install -g nave
     
-    nave use 12.3.1
+    nave use 16.13.1
     node -v
     v12.3.1
 
@@ -34,7 +42,7 @@ With the following command the angular-cli will be installed globally in your ma
 
 We can install the master branch using the following commands:
 
-    git clone https://github.com/angular-university/angular-ngrx-course.git
+    git clone https://github.com/angular-university/ngrx-course.git
     
 This repository is made of several separate npm modules, that are installable separately. For example, to run the au-input module, we can do the following:
     

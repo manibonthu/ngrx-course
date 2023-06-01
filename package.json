@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@angular-devkit/schematics": "^13.0.4",
     "@angular/animations": "^13.0.3",
     "@angular/cdk": "^13.0.3",
@@ -31,8 +32,29 @@
     "@ngrx/router-store": "^8.0.1",
     "@ngrx/store": "^8.0.1",
     "@ngrx/store-devtools": "^8.0.1",
+=======
+    "@angular-devkit/schematics": "^15.0.2",
+    "@angular/animations": "^15.0.2",
+    "@angular/cdk": "^15.0.1",
+    "@angular/common": "^15.0.2",
+    "@angular/compiler": "^15.0.2",
+    "@angular/core": "^15.0.2",
+    "@angular/forms": "^15.0.2",
+    "@angular/material": "^15.0.1",
+    "@angular/material-moment-adapter": "^15.0.1",
+    "@angular/platform-browser": "^15.0.2",
+    "@angular/platform-browser-dynamic": "^15.0.2",
+    "@angular/router": "^15.0.2",
+    "@ngrx/data": "^15.0.0",
+    "@ngrx/effects": "^15.0.0",
+    "@ngrx/entity": "^15.0.0",
+    "@ngrx/router-store": "^15.0.0",
+    "@ngrx/store": "^15.0.0",
+    "@ngrx/store-devtools": "^15.0.0",
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
     "body-parser": "^1.18.2",
     "core-js": "^2.4.1",
+    "cors": "^2.8.5",
     "express": "^4.16.2",
     "moment": "^2.22.2",
     "rxjs": "^6.5.4",
@@ -40,6 +62,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-angular": "^13.0.4",
     "@angular/cli": "^13.0.4",
     "@angular/compiler-cli": "^13.0.3",
@@ -51,6 +74,18 @@
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
+=======
+    "@angular-devkit/build-angular": "^15.0.2",
+    "@angular/cli": "^15.0.2",
+    "@angular/compiler-cli": "^15.0.2",
+    "@angular/language-service": "^15.0.2",
+    "@ngrx/schematics": "^14.0.0",
+    "@types/express": "^4.0.39",
+    "@types/jasmine": "~3.8.0",
+    "@types/jasminewd2": "~2.0.2",
+    "@types/node": "^12.11.1",
+    "jasmine-core": "~3.8.0",
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~6.3.2",
     "karma-chrome-launcher": "~3.1.0",
@@ -60,7 +95,11 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "protractor": "~7.0.0",
     "ts-node": "~3.2.0",
+<<<<<<< HEAD
     "tslint": "~6.1.0",
     "typescript": "~4.4.4"
+=======
+    "typescript": "~4.8.4"
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
   }
 }

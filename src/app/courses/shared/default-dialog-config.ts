@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { MatDialogConfig } from '@angular/material/dialog';
+=======
+import {  MatDialogConfig } from '@angular/material/dialog';
+>>>>>>> b1078a1f5296fe020164725c3a7d57745dda413b
 
 
 export function defaultDialogConfig() {
